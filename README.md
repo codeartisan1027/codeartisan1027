@@ -8,11 +8,25 @@
 <div align="center">
 	<hr>
 		<div align="left">
-		Experienced Senior Software Engineer with over 8 years of expertise building scalable, high-performance web applications. I specialize in technologies like JavaScript, TypeScript, Node.js, AWS, Serverless, Angular, SQL, and GraphQL, and I’ve had the chance to work on some exciting projects—everything from enterprise-level e-commerce solutions to secure banking payment systems.
+		Experienced Senior Software Engineer with over 8 years of expertise building scalable, high-performance web applications. I specialize in technologies like JavaScript, TypeScript, Node.js, AWS, Serverless, Angular, SQL, and GraphQL, and I’ve had the chance to work on some exciting projects—everything from enterprise-level e-commerce solutions and to secure banking payment systems.
+
 		What I’m really passionate about is designing serverless and microservices architectures that not only improve reliability but are also cost-effective and scalable. 
+
+        I'm passionate about continuous learning and growing professionally within collaborative teams, always looking for opportunities to leverage technology to drive meaningful results.
+
+        For me, coding is not just a job, it is a part of my life.
+        I really enjoy coding and spend more than 60% of my time coding.
+        Great development requires more than technical skills;
+        It requires deep concentration, understanding of customer needs, attention to detail, relentless effort, and creative problem-solving skills I think.
+
+        My friends call me a “coding owl” because of my focus, strategic thinking, and passion for constantly improving.
+        I believe the best developers don’t just code — they build smart solutions that create real value.
 		I love finding ways to help businesses grow and scale, and I’m always looking for opportunities to learn and improve my skills along the way.
+        
 		I’m committed to delivering high-quality software solutions and staying at the forefront of the ever-evolving tech landscape. 
 		I believe that continuous learning is key to staying ahead, and I’m always excited about tackling new challenges and innovating along the way.
+        Whether it’s creating from scratch or enhancing existing platforms, I focus on writing clean, efficient, and maintainable code that solves real-world problems.
+
 		</div>
 	<hr>
 	<!-- 🌐 Portfolio: [myportfolio.io](https://myportfolio.io)
